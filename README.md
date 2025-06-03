@@ -101,7 +101,7 @@ project-repo/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aqsa-stats/CodeAlpha_EDA.git
    ```
 2. Install the required Python libraries:
 
